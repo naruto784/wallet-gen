@@ -22,7 +22,7 @@ this command will:
 ## request testnet tokens
 
 https://faucet.octra.network
-## Updates 4
+## Updates 8update new
 
 This repository is maintained by Naruto784.
 
